@@ -1,0 +1,18 @@
+# COCO 2017 dataset http://cocodataset.org
+
+# download command/URL (optional)
+# download: bash ./scripts/get_coco.sh
+
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: ./datasets/type2_only4k_dataset/cropped_train  # 118287 images
+val: ./datasets/type2_only4k_dataset/cropped_validation  # 5000 images
+test: ./datasets/type2_only4k_dataset/cropped_validation     # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+
+# number of classes
+nc: 2
+
+# class names
+names: [
+  'crack',
+  'pothole'
+]

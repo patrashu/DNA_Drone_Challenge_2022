@@ -1,0 +1,15 @@
+## weights and none use
+*.pt
+datasets/
+figure/
+inference/
+paper/
+runs/
+scripts/
+tools/
+custom/before
+deploy/triton-inference-server/
+
+custom/animation.py
+custom/mocs2txt.py
+custom/xml2labelme.py
