@@ -45,4 +45,4 @@ python detect_patch.py --weights yolov7.pt --conf 0.25 --img-size 1280 --source 
 
 <br>
 
-#### [결과 이미지]((https://github.com/patrashu/DNA_Drone_Challenge_2022/tree/master/results)
+#### [결과 이미지](https://github.com/patrashu/DNA_Drone_Challenge_2022/tree/master/results)
