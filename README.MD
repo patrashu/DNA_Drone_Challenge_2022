@@ -2,9 +2,6 @@
 ## [지정공모 2. 실시간 AI 서비스 챌린지](http://challenge-dnadrone.com/?page_id=600)
 ### Mission 1 도로 위 결함을 검출하라
 
-
-<br>
-
 #### 실험 환경
 - Intel® Xeon® Gold 5218R(2.10GHz)
 - NVIDIA RTX A4000(16GB) * 2
